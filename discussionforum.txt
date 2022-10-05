@@ -1,0 +1,46 @@
+[Course]:COURSEONE
+[DiscussionForum]:COURSE EDITED
+    [parent_reply]:tester: uploading a file [username]:tester [upvotes]:0 [timestamp]:2022-05-01 15:03:32 [grade]:N/A [users_liked]:
+    [parent_reply]:testing functionality [username]:tester [upvotes]:0 [timestamp]:2022-04-29 14:12:51 [grade]:N/A [users_liked]:
+        [nested_reply]:testing nesting functionality [username]:tester [upvotes]:1 [timestamp]:2022-04-29 14:23:03 [grade]:N/A [users_liked]:tester
+    [parent_reply]:TESTING PARENTREPLY2(before parent1) [username]:spiderman12 [upvotes]:3 [timestamp]:2022-04-25 10:33:11 [grade]:100% -- Great work! [users_liked]:egg,batman,tester
+        [nested_reply]:replying to spiderman test by tester [username]:tester [upvotes]:0 [timestamp]:2022-04-27 13:42:40 [grade]:N/A [users_liked]:
+        [nested_reply]:NESTEDD [username]:egg [upvotes]:0 [timestamp]:2022-04-27 12:27:01 [grade]:No Grade Available [users_liked]:
+    [parent_reply]:TESTINGREPLY1 [username]:spiderman12 [upvotes]:3 [timestamp]:2022-04-25 09:34:11 [grade]:No Grade Available [users_liked]:egg,tester
+    [parent_reply]:C1_DF1_P1 [username]:alex_johnson1 [upvotes]:4 [timestamp]:2019-10-28 15:23:01 [grade]:Grade Unavailable [users_liked]:know_it_all37,john_smith11,spiderman12,egg
+        [nested_reply]:PENIS [username]:tester [upvotes]:1 [timestamp]:2022-04-27 14:18:53 [grade]:N/A [users_liked]:tester
+        [nested_reply]:NESTEDREPLYTESTER [username]:egg [upvotes]:1 [timestamp]:2022-04-26 17:53:24 [grade]:No Grade Available [users_liked]:egg
+        [nested_reply]:C1_DF1_P1_N1 [username]:know_it_all37 [upvotes]:1 [timestamp]:2019-10-28 18:23:01 [grade]:Grade Unavailable [users_liked]:prof_k
+        [nested_reply]:C1_DF1_P1_N2 [username]:john_smith11 [upvotes]:0 [timestamp]:2019-10-28 15:29:01 [grade]:null [users_liked]:know_it_all37,john_smith11,spiderman12
+    [parent_reply]:C1_DF1_P2 [username]:egg [upvotes]:3 [timestamp]:2018-10-28 15:23:01 [grade]:Grade Unavailable [users_liked]:prof_k,spiderman12,egg
+[DiscussionForum]:COURSE1 DISCUSSION2
+    [parent_reply]:C1_DF2_P2 [username]:egg [upvotes]:2 [timestamp]:2022-01-28 19:55:27 [grade]:32/30 Wow! Fantastic answer! [users_liked]:know_it_all37,john_smith11,spiderman12
+    [parent_reply]:C1_DF2_P1 [username]:alex_johnson1 [upvotes]:3 [timestamp]:2022-01-28 15:23:01 [grade]:29/30 [users_liked]:know_it_all37,john_smith11,spiderman12
+        [nested_reply]:C1_DF2_P1_N1 [username]:know_it_all37 [upvotes]:1 [timestamp]:2022-02-19 15:23:01 [grade]:23/30 [users_liked]:know_it_all37
+        [nested_reply]:C1_DF2_P1_N2 [username]:john_smith11 [upvotes]:0 [timestamp]:2022-01-28 15:23:01 [grade]:26/30 [users_liked]:
+[Course]:COURSETWO
+[DiscussionForum]:COURSE2 DISCUSSION1
+    [parent_reply]:TESTINGTSTINGTESTINGTESTING [username]:egg [upvotes]:1 [timestamp]:2022-04-27 12:40:07 [grade]:No Grade Available [users_liked]:egg
+    [parent_reply]:C2_DF1_P2 [username]:john_smith11 [upvotes]:6 [timestamp]:2020-11-23 16:32:02 [grade]:9/10 [users_liked]:know_it_all37,john_smith11,spiderman12,egg
+        [nested_reply]:AKFJASKADSJA;KAS;JKADSJ;ASKJ [username]:egg [upvotes]:0 [timestamp]:2022-04-27 12:43:48 [grade]:No Grade Available [users_liked]:
+        [nested_reply]:C2_DF1_P2_N1 [username]:prof_k [upvotes]:1 [timestamp]:2021-09-23 12:22:02 [grade]:N/A [users_liked]:know_it_all37,john_smith11,spiderman12
+    [parent_reply]:C2_DF1_P1 [username]:egg [upvotes]:22 [timestamp]:2017-09-23 12:22:02 [grade]:Very prompt response time! 10/10 [users_liked]:know_it_all37,john_smith11,spiderman12
+        [nested_reply]:C2_DF1_P1_N1 [username]:prof_k [upvotes]:1 [timestamp]:2017-10-23 12:22:02 [grade]:N/A [users_liked]:know_it_all37,john_smith11,spiderman12
+        [nested_reply]:C2_DF1_P1_N2 [username]:egg [upvotes]:4 [timestamp]:2017-09-26 12:22:02 [grade]:Grade Unavailable [users_liked]:know_it_all37,john_smith11,spiderman12,prof_k
+[Course]:COURSETHREE
+[DiscussionForum]:COURSE3 DISCUSSION1
+    [parent_reply]:C3_DF1_P2 [username]:egg [upvotes]:1 [timestamp]:2012-01-22 11:11:11 [grade]:10/10 [users_liked]:know_it_all37,john_smith11,spiderman12
+        [nested_reply]:C3_DF1_P2_N1 [username]:know_it_all37 [upvotes]:0 [timestamp]:2012-09-22 19:11:11 [grade]:11/10 Thank you for great your participation! [users_liked]:
+        [nested_reply]:C3_DF1_P2_N2 [username]:egg [upvotes]:3 [timestamp]:2012-09-22 18:11:11 [grade]:10/10 [users_liked]:know_it_all37,john_smith11,spiderman12
+        [nested_reply]:C3_DF1_P2_N3 [username]:spiderman12 [upvotes]:2 [timestamp]:2012-09-22 17:11:11 [grade]:12/10 Love the new username! [users_liked]:know_it_all37,john_smith11
+        [nested_reply]:C3_DF1_P2_N4 [username]:egg [upvotes]:3 [timestamp]:2012-09-22 13:11:11 [grade]:10/10 [users_liked]:know_it_all37,john_smith11,spiderman12
+[DiscussionForum]:COURSE3 DISCUSSION2
+    [parent_reply]:C3_DF2_P2 [username]:john_smith11 [upvotes]:1 [timestamp]:2020-01-22 12:12:12 [grade]:10/10 Funny! [users_liked]:prof_k
+    [parent_reply]:C3_DF2_P1 [username]:egg [upvotes]:1 [timestamp]:2012-01-22 12:12:12 [grade]:10/10 Funny! [users_liked]:prof_k
+        [nested_reply]:C3_DF1_P2_N1 [username]:know_it_all37 [upvotes]:0 [timestamp]:2012-09-22 19:11:11 [grade]:Nice! [users_liked]:
+        [nested_reply]:C3_DF1_P2_N2 [username]:egg [upvotes]:3 [timestamp]:2012-09-22 18:11:11 [grade]:10/10 [users_liked]:know_it_all37,john_smith11,spiderman12
+[DiscussionForum]:COURSE3--DF TO BE DELETED
+    [parent_reply]:needs to be deleted [username]:john_smith11 [upvotes]:1 [timestamp]:2020-01-22 12:12:12 [grade]:10/10 Funny! [users_liked]:prof_k
+    [parent_reply]:needs to be deleted [username]:egg [upvotes]:1 [timestamp]:2012-01-22 12:12:12 [grade]:10/10 Funny! [users_liked]:prof_k
+        [nested_reply]:needs to be deleted [username]:know_it_all37 [upvotes]:0 [timestamp]:2012-09-22 19:11:11 [grade]:Nice! [users_liked]:
+        [nested_reply]:needs to be deleted [username]:egg [upvotes]:3 [timestamp]:2012-09-22 18:11:11 [grade]:10/10 [users_liked]:know_it_all37,john_smith11,spiderman12
